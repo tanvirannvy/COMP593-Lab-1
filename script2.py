@@ -1,2 +1,2 @@
-print ("Simple is better than complex.")
-print ("Complex is better than complicated.")
+# This is a good programming advice
+print ("If the implementation is hard to explain, it's a bad idea.")
